@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Negi</h1>
 <h3 align="center">A passionate Full Stack developer with decent knowledge of DSA</h3>
-<img align="right" alt="Coding" width="550" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+<img align="right" alt="Coding" width="550" height="290" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cpwallah&label=Profile%20views&color=0e75b6&style=flat" alt="cpwallah" /> </p>
 
 - 🔭 I’m currently working on **AI web apps**
