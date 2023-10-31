@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpwallah&" alt="cpwallah" /></p>
 
 
-<img align="center" alt="Coding"  src="https://photos.app.goo.gl/Meqc9P4KyYNusgb2A">
+<img align="center width="200" heigth="200" alt="Coding"  src="https://photos.app.goo.gl/Meqc9P4KyYNusgb2A">
