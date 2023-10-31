@@ -28,6 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpwallah&show_icons=true&locale=en" alt="cpwallah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpwallah&" alt="cpwallah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpwallah&"  /></p>
 
 [![An image of @cpwallah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cpwallah)](https://holopin.io/@cpwallah)
