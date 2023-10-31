@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpwallah&show_icons=true&locale=en" alt="cpwallah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpwallah&" alt="cpwallah" /></p>
+
+
+<img align="right" alt="Coding"  src="file:///C:/Users/swaini%20negi/Documents/st3/maow/src/images/didigiri.png">
