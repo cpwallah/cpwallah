@@ -30,5 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpwallah&" alt="cpwallah" /></p>
 
-
-<img  width="50" heigth="50" alt="Coding"  src="https://photos.app.goo.gl/Meqc9P4KyYNusgb2A">
+[![An image of @cpwallah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cpwallah)](https://holopin.io/@cpwallah)
