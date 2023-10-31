@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpwallah&" alt="cpwallah" /></p>
 
 
-<img align="right" alt="Coding"  src="file:///C:/Users/swaini%20negi/Documents/st3/maow/src/images/didigiri.png">
+<img align="right" alt="Coding"  src="https://photos.app.goo.gl/Meqc9P4KyYNusgb2A">
