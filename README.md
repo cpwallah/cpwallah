@@ -4,15 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cpwallah&label=Profile%20views&color=0e75b6&style=flat" alt="cpwallah" /> </p>
 
 - 🔭 I’m currently working on **AI web apps**
-
-- 🌱 I’m currently learning **django,AI**
-
+- 
 - 💬 Ask me about **DSA AND Backened stuffs**
 
 - 📫 How to reach me **shivanshnegi2860@gmail.com**
-
-- ⚡ Fun fact **Love to pet my cats**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivansh-42761122a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivansh-42761122a/" height="30" width="40" /></a>
