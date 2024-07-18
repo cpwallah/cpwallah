@@ -1,52 +1,29 @@
-# Hi there, I'm [Your Name] 👋
+<h1 align="center">Hi 👋, I'm Maowika</h1>
+<h3 align="center">A passionate Full Stack developer with decent knowledge of DSA</h3>
+<img align="right" alt="Coding" width="550" height="290" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cpwallah&label=Profile%20views&color=0e75b6&style=flat" alt="cpwallah" /> </p>
 
-I'm a passionate MERN stack developer with a keen interest in AI and community-driven projects. Here's a bit more about me and what I'm working on:
+- 🔭 I’m currently working on **AI web apps**
 
-- 🔭 I’m currently working on an **AI News Assistant** and a **Community Marketplace**.
-- 🌱 I’m constantly learning and keeping up with the latest trends in MERN development.
-- 👯 I’m looking to collaborate on projects that involve AI and community engagement.
-- 🤔 I’m open to discussing ideas and potential opportunities.
-- 💬 Ask me about MERN stack development, AI, and community marketplace projects.
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 💬 Ask me about **DSA AND Backened stuffs**
 
-## GitHub Stats
+- 📫 How to reach me **shivanshnegi2860@gmail.com**
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivansh-42761122a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivansh-42761122a/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/cp_wallah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/cp_wallah" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/cp_wallah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/cp_wallah/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shivanshnh8kw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shivanshnh8kw" height="30" width="40" /></a>
+</p>
 
-![GitHub Stars](https://img.shields.io/badge/Stars-92-brightgreen)
-![GitHub Commits](https://img.shields.io/badge/Commits-267-blue)
-![GitHub PRs](https://img.shields.io/badge/PRs-27-blueviolet)
-![GitHub Issues](https://img.shields.io/badge/Issues-1-orange)
-![GitHub Contributions](https://img.shields.io/badge/Contributions-8-yellowgreen)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## Coding Practice
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cpwallah&show_icons=true&locale=en&layout=compact" alt="cpwallah" /></p>
 
-I'm practicing for upcoming coding interviews and have made significant progress. I'm currently at a B grade and aiming to reach an A grade soon.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpwallah&show_icons=true&locale=en" alt="cpwallah" /></p>
 
-## LeetCode Profile
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpwallah&"  /></p>
 
-![LeetCode Rating](https://img.shields.io/badge/Rating-B-brightgreen)
-
-## Projects
-
-### AI News Assistant
-An AI-driven assistant that curates and delivers the latest news based on user preferences. Built using MERN stack and various AI technologies.
-
-### Community Marketplace
-A platform that fosters community engagement by allowing users to buy, sell, and trade goods and services. Developed using MERN stack.
-
-## Skills
-
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-96%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-4%25-yellow)
-![Express](https://img.shields.io/badge/Express-%20-blue)
-![Mongoose](https://img.shields.io/badge/Mongoose-%20-green)
-![Winston](https://img.shields.io/badge/Winston-%20-orange)
-![Dotenv](https://img.shields.io/badge/Dotenv-%20-brightgreen)
-
-## Connect with me
-
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Email](Your Email Address)
+[![An image of @cpwallah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cpwallah)](https://holopin.io/@cpwallah)
